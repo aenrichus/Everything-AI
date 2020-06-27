@@ -1,5 +1,5 @@
 # Everything AI
-All of the **Artificial Intelligence** resources available
+All of the **Artificial Intelligence** resources available. Updated daily.
 
 ## Machine Learning
 
@@ -19,4 +19,22 @@ All of the **Artificial Intelligence** resources available
 
 ## Symbolic Artificial Intelligence
 
-## 
+# Future Plans
+
+- Resources
+  - Books
+  - Conferences
+  - News
+  - Courses
+  - Videos
+  - Study Groups
+  - People
+  - Blogs
+  - Github Repos
+- Separate Sections
+  - Curricula
+  - Significant Papers
+  - Applied Research
+- Long Term
+  - Related content mapping (Wiki?), ratings
+  - Discussions, Shared Notes
