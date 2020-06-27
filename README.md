@@ -1,6 +1,8 @@
 # Everything AI
 All of the **Artificial Intelligence** resources available. Updated daily.
 
+## News
+
 ## Machine Learning
 
 ### Reinforcement Learning
@@ -31,6 +33,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - People
   - Blogs
   - Github Repos
+  - Podcasts
 - Separate Sections
   - Curricula
   - Significant Papers
