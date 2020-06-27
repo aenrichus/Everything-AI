@@ -60,6 +60,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - Curricula
   - Significant Papers
   - Applied Research
+  - Non-English Resources
 - Long Term
   - Related content mapping (Wiki?), ratings
   - Discussions, Shared Notes
