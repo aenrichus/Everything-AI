@@ -3,6 +3,14 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ## News
 
+##### 28 June 2020
+
+- TWIMLAI Reinforcement Learning Study Group ([GitHub](https://github.com/TWIML/RL_Study_Group))
+
+##### Currently Ongoing Study Groups
+
+- TWIMLAI Reinforcement Learning Study Group ([GitHub](https://github.com/TWIML/RL_Study_Group))
+
 ## Machine Learning
 
 ### Reinforcement Learning
@@ -17,6 +25,10 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 - [Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) by DeepMind x UCL (2018)
 - [Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver (2015)
+
+##### Study Groups
+
+- TWIMLAI Reinforcement Learning Study Group ([GitHub](https://github.com/TWIML/RL_Study_Group), 2020)
 
 ### Supervised Learning
 
@@ -38,6 +50,15 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 ## Symbolic Artificial Intelligence
 
 ## Uncategorized
+
+##### Communities
+
+- Machine Learning Tokyo ([Website](https://mltokyo.ai/), [GitHub](https://github.com/Machine-Learning-Tokyo), [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/))
+- TWIMLAI: This Week in Machine Learning an Artificial Intelligence([Website](https://twimlai.com/community/), [GitHub](https://github.com/TWIML))
+
+##### Podcasts
+
+- [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/)
 
 ##### YouTube Channels
 
