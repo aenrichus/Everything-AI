@@ -65,18 +65,21 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 ##### Conferences
 
 - [Artificial Intelligence at WikiCFP](http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence&skip=1)
-- ICML: International Conference on Machine Learning ([Website](https://icml.cc/))
+- **ICML**: International Conference on Machine Learning ([Website](https://icml.cc/))
   - **12-18 Jul 2020**, Virtual-only Conference
-  - ~~Abstract Submission Deadline: **20 Jan 2020**~~
-- NeurIPS: Conference on Neural Information Processing Systems ([Website](https://neurips.cc/))
+  - Submission Deadlines: ~~**20 Jan 2020** (Abstract), **06 Feb 2020** (Paper)~~
+- **NeurIPS**: Conference on Neural Information Processing Systems ([Website](https://neurips.cc/))
   - **05-12 Dec 2020**, Virtual-only Conference
-  - ~~Abstract Submission Deadline: **27 May 2020**~~
-- ICLR: International Conference on Learning Representations ([Website](https://iclr.cc/))
+  - Submission Deadlines: ~~**27 May 2020** (Abstract), **05 Jun 2020** (Paper)~~
+- **AAAI**: Association for the Advancement of Artificial Intelligence ([Website](https://aaai.org/Conferences/AAAI-21/))
+  - **02-09 Feb 2021**, [Vancouver Convention Centre](https://www.google.com/maps/place/Vancouver+Convention+Centre/@49.2886976,-123.111228,15z/data=!4m2!3m1!1s0x0:0xd3c5f7bc5d72768d?sa=X&ved=2ahUKEwjd56q0oKXqAhXLoHIEHQusCAIQ_BIwE3oECBkQCA), Vancouver, British Columbia, Canada
+  - Submission Deadlines: **01 Sep 2020** (Abstract), **09 Sep 2020** (Paper)
+- **ICLR**: International Conference on Learning Representations ([Website](https://iclr.cc/))
   - **04-08 May 2021**, [Messe Wien Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.2173602,16.407532,15z/data=!4m5!3m4!1s0x0:0x51b94dc6a5158516!8m2!3d48.2173602!4d16.407532), Vienna, Austria
-- CVPR: Conference on Computer Vision and Pattern Recognition ([Website](http://cvpr2021.thecvf.com/))
+- **CVPR**: Conference on Computer Vision and Pattern Recognition ([Website](http://cvpr2021.thecvf.com/))
   - **19-25 Jun 2021**, Nashville, Tennessee, USA
-  - Paper Submission Deadline: **16 Nov 2020**
-- ICCV: International Conference on Computer Vision ([Website](http://iccv2021.thecvf.com/home))
+  - Submission Deadlines: **16 Nov 2020** (Paper)
+- **ICCV**: International Conference on Computer Vision ([Website](http://iccv2021.thecvf.com/home))
   - **11-17 Oct 2021**, Montreal, Quebec, Canada
 
 ##### Podcasts
