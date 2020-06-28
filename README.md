@@ -3,9 +3,15 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ## News
 
-##### 28 June 2020
+#### 28 June 2020
 
 - TWIMLAI Reinforcement Learning Study Group ([GitHub](https://github.com/TWIML/RL_Study_Group))
+
+#### Past News
+
+- [June 2020](https://github.com/aenrichus/Everything-AI/Past-News/202006.md)
+
+##### Currently Ongoing Courses
 
 ##### Currently Ongoing Study Groups
 
