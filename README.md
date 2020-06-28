@@ -62,6 +62,15 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 - Machine Learning Tokyo ([Website](https://mltokyo.ai/), [GitHub](https://github.com/Machine-Learning-Tokyo), [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/))
 - TWIMLAI: This Week in Machine Learning an Artificial Intelligence([Website](https://twimlai.com/community/), [GitHub](https://github.com/TWIML))
 
+##### Conferences
+
+- NeurIPS: Conference on Neural Information Processing Systems([Website](https://neurips.cc/))
+  - **05-12 December 2020**, Virtual-only Conference
+  - ~~Abstract Submission Deadline: 27 May 2020~~
+
+- ICLR: International Conference on Learning Representations ([Website](https://iclr.cc/))
+  - **04-08 May 2021**, [Messe Wien Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.2173602,16.407532,15z/data=!4m5!3m4!1s0x0:0x51b94dc6a5158516!8m2!3d48.2173602!4d16.407532), Vienna, Austria
+
 ##### Podcasts
 
 - [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/)
