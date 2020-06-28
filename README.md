@@ -64,21 +64,18 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ##### Conferences
 
+- [Artificial Intelligence at WikiCFP](http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence&skip=1)
 - ICML: International Conference on Machine Learning ([Website](https://icml.cc/))
   - **12-18 Jul 2020**, Virtual-only Conference
   - ~~Abstract Submission Deadline: **20 Jan 2020**~~
-
 - NeurIPS: Conference on Neural Information Processing Systems ([Website](https://neurips.cc/))
   - **05-12 Dec 2020**, Virtual-only Conference
   - ~~Abstract Submission Deadline: **27 May 2020**~~
-
 - ICLR: International Conference on Learning Representations ([Website](https://iclr.cc/))
   - **04-08 May 2021**, [Messe Wien Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.2173602,16.407532,15z/data=!4m5!3m4!1s0x0:0x51b94dc6a5158516!8m2!3d48.2173602!4d16.407532), Vienna, Austria
-
 - CVPR: Conference on Computer Vision and Pattern Recognition ([Website](http://cvpr2021.thecvf.com/))
   - **19-25 Jun 2021**, Nashville, Tennessee, USA
   - Paper Submission Deadline: **16 Nov 2020**
-
 - ICCV: International Conference on Computer Vision ([Website](http://iccv2021.thecvf.com/home))
   - **11-17 Oct 2021**, Montreal, Quebec, Canada
 
