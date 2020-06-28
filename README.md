@@ -9,7 +9,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 #### Past News
 
-- [June 2020](https://github.com/aenrichus/Everything-AI/Past-News/202006.md)
+- [June 2020](https://github.com/aenrichus/Everything-AI/blob/master/Past-News/202006.md)
 
 ##### Currently Ongoing Courses
 
