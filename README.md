@@ -105,6 +105,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - Significant Papers
   - Applied Research
   - Non-English Resources
+  - Local Conferences
 - Long Term
   - Related content mapping (Wiki?), ratings
   - Discussions, Shared Notes
