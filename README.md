@@ -59,8 +59,14 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ##### Communities
 
+- {Dis}Ability in Artificial Intelligence ([Website](https://elesa.github.io/ability_in_AI/), [Twitter](https://twitter.com/AiDisability))
+- BAI: Black in Artificial Intelligence ([Website](https://blackinai.github.io/), [Facebook](https://www.facebook.com/blackinai/), [Twitter](https://twitter.com/black_in_ai))
+- JiML: Jews in Machine Learning ([Website](https://www.cs.bgu.ac.il/~mlt142/JIML?format=standalone))
+- LXAI: Latinx in Artificial Intelligence ([Website](http://www.latinxinai.org/), [Twitter](https://twitter.com/_LXAI))
 - Machine Learning Tokyo ([Website](https://mltokyo.ai/), [GitHub](https://github.com/Machine-Learning-Tokyo), [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/))
+- Queer in Artificial Intelligence ([Website](https://sites.google.com/view/queer-in-ai/home), [Twitter](https://twitter.com/QueerinAI))
 - TWIMLAI: This Week in Machine Learning an Artificial Intelligence([Website](https://twimlai.com/community/), [GitHub](https://github.com/TWIML))
+- WiML: Women in Machine Learning ([Website](https://wimlworkshop.org/), [Twitter](https://twitter.com/WiMLworkshop))
 
 ##### Conferences
 
