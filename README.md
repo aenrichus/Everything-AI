@@ -100,15 +100,19 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - Videos
   - Study Groups
   - People
-  - Blogs
+  - Blogs (Tutorials)
   - GitHub Repos
   - Podcasts
+  - Summer Schools
+  - Research Programs (PhD)
+  - Industry Residencies
 - Separate Sections
   - Curricula
   - Significant Papers
   - Applied Research
   - Non-English Resources
   - Local Conferences
+  - Jobs / Company information
 - Long Term
   - Related content mapping (Wiki?), ratings
   - Discussions, Shared Notes
