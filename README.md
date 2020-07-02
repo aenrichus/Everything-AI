@@ -116,6 +116,8 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - Summer Schools
   - Research Programs (PhD)
   - Industry Residencies
+  - Review Papers
+  - Significant Papers
 - Separate Sections
   - Curricula
   - Significant Papers
