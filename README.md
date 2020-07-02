@@ -61,7 +61,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 ##### Affinity Groups
 
 - {Dis}Ability in Artificial Intelligence ([Website](https://elesa.github.io/ability_in_AI/), [Twitter](https://twitter.com/AiDisability))
-- Black in Artificial Intelligence ([Website](https://blackinai.github.io/), [Facebook](https://www.facebook.com/blackinai/), [Twitter](https://twitter.com/black_in_ai))
+- Black in Artificial Intelligence ([Website](https://blackinai.github.io/), [Joleh](https://blackinai.joleh.com/), [Facebook](https://www.facebook.com/blackinai/), [Twitter](https://twitter.com/black_in_ai))
 - Jews in Machine Learning ([Website](https://www.cs.bgu.ac.il/~mlt142/JIML?format=standalone))
 - Latinx in Artificial Intelligence ([Website](http://www.latinxinai.org/), [Twitter](https://twitter.com/_LXAI))
 - Queer in Artificial Intelligence ([Website](https://sites.google.com/view/queer-in-ai/home), [Twitter](https://twitter.com/QueerinAI))
