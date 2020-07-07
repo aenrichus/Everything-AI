@@ -122,6 +122,7 @@ All of the **Artificial Intelligence** resources available. Updated daily.
   - Industry Residencies
   - Review Papers
   - Significant Papers
+  - Mailing Lists
 - Separate Sections
   - Curricula
   - Significant Papers
