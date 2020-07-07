@@ -39,6 +39,10 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ### Supervised Learning
 
+##### Books
+
+[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016)
+
 ##### Courses
 
 - [Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) by DeepMind x UCL (2020)
