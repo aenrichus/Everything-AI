@@ -1,5 +1,5 @@
 # Everything AI
-All of the **Artificial Intelligence** resources available. Updated daily.
+All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 ## News
 
@@ -41,7 +41,8 @@ All of the **Artificial Intelligence** resources available. Updated daily.
 
 ##### Books
 
-[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016)
+- [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens, Luca Antiga, and Thomas Viehmann (2020)
+- [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016)
 
 ##### Courses
 
