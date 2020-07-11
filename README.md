@@ -77,7 +77,7 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 - Machine Learning Tokyo ([Website](https://mltokyo.ai/), [GitHub](https://github.com/Machine-Learning-Tokyo), [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/))
 - TWIMLAI: This Week in Machine Learning an Artificial Intelligence ([Website](https://twimlai.com/community/), [GitHub](https://github.com/TWIML))
 
-##### Conferences
+##### International Conferences
 
 - [Artificial Intelligence at WikiCFP](http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence&skip=1)
 - **ICML**: International Conference on Machine Learning ([Website](https://icml.cc/))
@@ -96,6 +96,12 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
   - Submission Deadlines: **16 Nov 2020** (Paper)
 - **ICCV**: International Conference on Computer Vision ([Website](http://iccv2021.thecvf.com/home))
   - **11-17 Oct 2021**, Montreal, Quebec, Canada
+
+##### Local Conferences
+
+- **BayLearn**: Bay Area Machine Learning Symposium ([Website](http://www.baylearn.org/))
+  - **15 Oct 2020**, Virtual-only Conference
+  - Submission Deadlines: ~~**25 Jun 2020** (Abstract)~~
 
 ##### Podcasts
 
