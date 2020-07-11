@@ -105,7 +105,8 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 ##### Podcasts
 
-- [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/)
+- [Artificial Intelligence](https://lexfridman.com/ai/) by Lex Fridman
+- [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/) by Sam Charrington
 
 ##### YouTube Channels
 
