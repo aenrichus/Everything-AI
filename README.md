@@ -106,6 +106,11 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 ##### Podcasts
 
 - [Artificial Intelligence](https://lexfridman.com/ai/) by Lex Fridman
+- [Artificially Intelligent](https://artificiallyintelligent.libsyn.com) by Christian Hubbs and Stephen Donnelly
+- [Brain Inspired](https://braininspired.co/podcast/) by Paul Middlebrooks
+- [Eye on AI](https://aneyeonai.libsyn.com) by Craig Smith
+- [No BiAS](https://content.alegion.com/podcast?hsLang=en) by Melody Travers and Saurabh Bagalkar
+- [The AI Podcast](https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/) by NVIDIA
 - [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/) by Sam Charrington
 
 ##### YouTube Channels
