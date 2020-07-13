@@ -111,11 +111,19 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 - [Eye on AI](https://aneyeonai.libsyn.com) by Craig Smith
 - [No BiAS](https://content.alegion.com/podcast?hsLang=en) by Melody Travers and Saurabh Bagalkar
 - [The AI Podcast](https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/) by NVIDIA
-- [TWIMLAI: This Week in Machine Learning an Artificial Intelligence](https://twimlai.com/) by Sam Charrington
+- [TWIMLAI: This Week in Machine Learning and Artificial Intelligence](https://twimlai.com/) by Sam Charrington
 
 ##### YouTube Channels
 
+- [AI2: Allen Institute for Artificial Intelligence](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/featured)
+- [Applied AI Course](https://www.youtube.com/c/AppliedAICourse/featured)
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+- [MIT CSAIL](https://www.youtube.com/c/MITCSAIL/featured)
+- [Robert Miles](https://www.youtube.com/c/RobertMilesAI/featured)
+- [Siraj Raval](https://www.youtube.com/c/SirajRaval/featured) *(Raval was caught plaigarizing papers.)*
+- [The Artificial Intelligence Channel](https://www.youtube.com/c/TheArtificialIntelligenceChannel/featured) *(Last updated 2018)*
+- [TWIMLAI: This Week in Machine Learning and Artificial Intelligence](https://www.youtube.com/c/twimlai/featured)
+- [What is Artificial Intelligence](https://www.youtube.com/c/WhatisArtificialIntelligence/featured)
 
 # Future Plans
 
