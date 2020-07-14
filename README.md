@@ -114,6 +114,7 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 - [Brain Inspired](https://braininspired.co/podcast/) by Paul Middlebrooks
 - [Eye on AI](https://aneyeonai.libsyn.com) by Craig Smith
 - [No BiAS](https://content.alegion.com/podcast?hsLang=en) by Melody Travers and Saurabh Bagalkar
+- [Talking Machines](https://www.thetalkingmachines.com/home) by Katherine Gorman and Neil Lawrence
 - [The AI Podcast](https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/) by NVIDIA
 - [TWIMLAI: This Week in Machine Learning and Artificial Intelligence](https://twimlai.com/) by Sam Charrington
 
