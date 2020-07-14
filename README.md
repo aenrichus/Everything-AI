@@ -103,6 +103,10 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
   - **15 Oct 2020**, Virtual-only Conference
   - Submission Deadlines: ~~**25 Jun 2020** (Abstract)~~
 
+##### Newsletters
+
+- [Alan Turing Institute](http://web.turing.ac.uk/cn/ap7zg/newsletter)
+
 ##### Podcasts
 
 - [Artificial Intelligence](https://lexfridman.com/ai/) by Lex Fridman
@@ -144,6 +148,7 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
   - Review Papers
   - Significant Papers
   - Mailing Lists
+  - Newsletters
 - Separate Sections
   - Curricula
   - Significant Papers
