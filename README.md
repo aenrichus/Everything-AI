@@ -53,6 +53,12 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 ### Special Topics
 
+#### Computational Neuroscience
+
+##### Mailing Lists
+
+- [Comp-neuro: The Computational Neuroscience Email List](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro/)
+
 #### Machine Learning x Society
 
 #### Math for Machine Learning
@@ -102,6 +108,10 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 - **BayLearn**: Bay Area Machine Learning Symposium ([Website](http://www.baylearn.org/))
   - **15 Oct 2020**, Virtual-only Conference
   - Submission Deadlines: ~~**25 Jun 2020** (Abstract)~~
+
+##### Mailing Lists
+
+- [Machine Learning News](https://groups.google.com/g/ml-news)
 
 ##### Newsletters
 
