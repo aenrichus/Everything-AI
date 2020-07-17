@@ -128,6 +128,14 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 - [The AI Podcast](https://blogs.nvidia.com/blog/category/deep-learning/the-ai-podcast/) by NVIDIA
 - [TWIMLAI: This Week in Machine Learning and Artificial Intelligence](https://twimlai.com/) by Sam Charrington
 
+##### Residency Programs (Industry)
+
+- [Facebook AI Residency Program](https://research.fb.com/programs/facebook-ai-residency-program/)
+- [Google AI Residency Program](https://research.google/careers/ai-residency/)
+- [Microsoft AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)
+- [Shell.ai Residency Programme](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html)
+- [Uber AI Residency Program](https://careersinfo.uber.com/ai-residency/)
+
 ##### YouTube Channels
 
 - [AI2: Allen Institute for Artificial Intelligence](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/featured)
