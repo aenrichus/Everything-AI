@@ -61,6 +61,11 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 #### Machine Learning x Society
 
+##### International Conferences
+
+- **FAccT**: Conference on Fairness, Accountability, and Transparency (formerly **FAT\***, [Website](https://facctconference.org/2021/index.html), [Twitter](https://twitter.com/facctconference/))
+  - **Dates TBD**, Toronto, Ontario, Canada
+
 #### Math for Machine Learning
 
 #### Natural Language Processing
