@@ -122,6 +122,10 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 - [Alan Turing Institute](http://web.turing.ac.uk/cn/ap7zg/newsletter)
 
+##### People
+
+- **Jürgen Schmidhuber** ([Twitter](https://twitter.com/SchmidhuberAI), [Website](http://people.idsia.ch/~juergen/), [Wikipedia](https://en.wikipedia.org/wiki/Jürgen_Schmidhuber))
+
 ##### Podcasts
 
 - [Artificial Intelligence](https://lexfridman.com/ai/) by Lex Fridman
