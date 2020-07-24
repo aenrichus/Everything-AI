@@ -124,7 +124,8 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 ##### People
 
-- **Jürgen Schmidhuber** ([Twitter](https://twitter.com/SchmidhuberAI), [Website](http://people.idsia.ch/~juergen/), [Wikipedia](https://en.wikipedia.org/wiki/Jürgen_Schmidhuber))
+- **Jürgen Schmidhuber** ([Twitter](https://twitter.com/SchmidhuberAI), [Website](http://people.idsia.ch/~juergen/), [Wikipedia](https://en.wikipedia.org/wiki/Jürgen_Schmidhuber), [Scholar](https://scholar.google.com/citations?user=gLnCTgIAAAAJ))
+- **Timnit Gebru** ([Twitter](https://twitter.com/timnitGebru), [Website](https://ai.stanford.edu/~tgebru/), [Wikipedia](https://en.wikipedia.org/wiki/Timnit_Gebru), [Scholar](https://scholar.google.com/citations?user=lemnAcwAAAAJ))
 
 ##### Podcasts
 
