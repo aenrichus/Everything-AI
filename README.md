@@ -70,6 +70,11 @@ All of the **Artificial Intelligence** resources available. Updated daily-ish.
 
 #### Natural Language Processing
 
+##### International Conferences
+
+- **ACL-IJCNLP**: Association for Computational Linguistics and International Joint Conference on Natural Language Processing ([Website](https://2021.aclweb.org), [Twitter](https://twitter.com/aclmeeting))
+  - **1-6 August 2021**, Bangkok, Thailand
+
 ## Symbolic Artificial Intelligence
 
 ## Uncategorized
